@@ -8,25 +8,25 @@ filetype off
 set rtp+=~/.vim/bundle/vundle
 call vundle#rc()
 
-Bundle 'gmarik/vundle'
-Bundle 'altercation/vim-colors-solarized'
-Bundle 'hallison/vim-markdown.git'
-Bundle 'jcf/vim-latex'
-Bundle 'kien/ctrlp.vim'
-Bundle 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
-Bundle 'Lokaltog/vim-easymotion'
-Bundle 'majutsushi/tagbar'
-Bundle 'myusuf3/numbers.vim'
-Bundle 'scrooloose/nerdcommenter'
-Bundle 'scrooloose/nerdtree'
-Bundle 'scrooloose/syntastic'
-Bundle 'SirVer/ultisnips.git'
-Bundle 'sjl/gundo.vim'
-Bundle 'tpope/vim-fugitive'
-Bundle 'tpope/vim-surround'
-Bundle 'Valloric/YouCompleteMe'
-Bundle 'TaskList.vim'
-Bundle 'mru.vim'
+Bundle 'http://github.com/gmarik/vundle'
+Bundle 'http://github.com/altercation/vim-colors-solarized'
+Bundle 'http://github.com/hallison/vim-markdown.git'
+Bundle 'http://github.com/jcf/vim-latex'
+Bundle 'http://github.com/kien/ctrlp.vim'
+Bundle 'http://github.com/Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
+Bundle 'http://github.com/Lokaltog/vim-easymotion'
+Bundle 'http://github.com/majutsushi/tagbar'
+Bundle 'http://github.com/myusuf3/numbers.vim'
+Bundle 'http://github.com/scrooloose/nerdcommenter'
+Bundle 'http://github.com/scrooloose/nerdtree'
+Bundle 'http://github.com/scrooloose/syntastic'
+Bundle 'http://github.com/SirVer/ultisnips.git'
+Bundle 'http://github.com/sjl/gundo.vim'
+Bundle 'http://github.com/tpope/vim-fugitive'
+Bundle 'http://github.com/tpope/vim-surround'
+Bundle 'http://github.com/Valloric/YouCompleteMe'
+Bundle 'http://github.com/vim-scripts/TaskList.vim'
+Bundle 'http://github.com/vim-scripts/mru.vim'
 
 """ Filetypes/completion
 filetype plugin on
